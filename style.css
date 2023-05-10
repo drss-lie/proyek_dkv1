@@ -1,0 +1,29 @@
+/* style */
+body {
+  background-image: url(img/d7kpr51-d3f618cd-b812-41e7-9285-548383036c37\ kedua.png);
+  background-size: cover;
+  background-color: #1b2326;
+}
+
+/* jumbotron */
+.jumbotron {
+  margin: 250px auto 0;
+  color: #f5fefd;
+}
+
+p {
+  color: #f5fefd;
+}
+
+section .container {
+  margin-top: 250px;
+}
+
+.card {
+  background-color: transparent;
+  border-style: none;
+}
+
+h3 {
+  color: #f5fefd;
+}
